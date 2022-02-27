@@ -1,5 +1,5 @@
 import random
-import functions as f
+import magic_calculator.functions as f
 def magic(a,b):
     num = random.rarandint(1,4)
     if num == 1:
