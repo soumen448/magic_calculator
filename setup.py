@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name='magic_calculator',                           # should match the package folder
     packages=['magic_calculator'],                     # should match the package folder
-    version='0.3',                                # important for updates
+    version='0.4',                                # important for updates
     license='MIT',                                  # should match your chosen license
     description='performs magic calculation',
     long_description=long_description,              # loads your README.md
@@ -28,5 +28,5 @@ setuptools.setup(
         'Programming Language :: Python :: 3.9',
     ],
     
-    download_url="https://github.com/soumen448/magic_calculator/archive/refs/tags/0.3.tar.gz",
+    download_url="https://github.com/soumen448/magic_calculator/archive/refs/tags/0.4.tar.gz",
 )
