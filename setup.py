@@ -28,5 +28,5 @@ setuptools.setup(
         'Programming Language :: Python :: 3.9',
     ],
     
-    download_url="https://github.com/soumen448/magic_calculator/archive/refs/tags/0.1.tar.gz",
+    download_url="https://github.com/soumen448/magic_calculator/archive/refs/tags/0.3.tar.gz",
 )
